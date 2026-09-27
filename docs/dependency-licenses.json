@@ -1,0 +1,224 @@
+[
+  {
+    "License": "BSD License",
+    "Name": "Jinja2",
+    "URL": "https://github.com/pallets/jinja/",
+    "Version": "3.1.6"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "MarkupSafe",
+    "URL": "https://github.com/pallets/markupsafe/",
+    "Version": "3.0.3"
+  },
+  {
+    "License": "MIT License",
+    "Name": "PyYAML",
+    "URL": "https://pyyaml.org/",
+    "Version": "6.0.3"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "Pygments",
+    "URL": "https://pygments.org",
+    "Version": "2.21.0"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "ai-systems-lab",
+    "URL": "UNKNOWN",
+    "Version": "0.1.0"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "ai-systems-lab",
+    "URL": "UNKNOWN",
+    "Version": "0.1.0"
+  },
+  {
+    "License": "Mozilla Public License 2.0 (MPL 2.0)",
+    "Name": "certifi",
+    "URL": "https://github.com/certifi/python-certifi",
+    "Version": "2026.7.22"
+  },
+  {
+    "License": "MIT",
+    "Name": "charset-normalizer",
+    "URL": "https://github.com/jawah/charset_normalizer/blob/master/CHANGELOG.md",
+    "Version": "3.5.1"
+  },
+  {
+    "License": "BSD License",
+    "Name": "colorama",
+    "URL": "https://github.com/tartley/colorama",
+    "Version": "0.4.6"
+  },
+  {
+    "License": "MIT License",
+    "Name": "filelock",
+    "URL": "https://github.com/tox-dev/py-filelock",
+    "Version": "3.32.3"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "fsspec",
+    "URL": "https://github.com/fsspec/filesystem_spec",
+    "Version": "2026.7.0"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "huggingface_hub",
+    "URL": "https://github.com/huggingface/huggingface_hub",
+    "Version": "0.36.2"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "idna",
+    "URL": "https://github.com/kjd/idna",
+    "Version": "3.20"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "iniconfig",
+    "URL": "https://github.com/pytest-dev/iniconfig",
+    "Version": "2.3.0"
+  },
+  {
+    "License": "BSD License",
+    "Name": "mpmath",
+    "URL": "http://mpmath.org/",
+    "Version": "1.3.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "mypy",
+    "URL": "https://www.mypy-lang.org/",
+    "Version": "1.18.2"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "mypy_extensions",
+    "URL": "https://github.com/python/mypy_extensions",
+    "Version": "1.1.0"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "networkx",
+    "URL": "https://networkx.org/",
+    "Version": "3.6.1"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "numpy",
+    "URL": "https://numpy.org",
+    "Version": "2.5.3"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "packaging",
+    "URL": "https://github.com/pypa/packaging",
+    "Version": "26.3"
+  },
+  {
+    "License": "Mozilla Public License 2.0 (MPL 2.0)",
+    "Name": "pathspec",
+    "URL": "UNKNOWN",
+    "Version": "1.1.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "pluggy",
+    "URL": "UNKNOWN",
+    "Version": "1.6.0"
+  },
+  {
+    "License": "BSD-3-Clause",
+    "Name": "psutil",
+    "URL": "https://github.com/giampaolo/psutil",
+    "Version": "7.1.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "pytest",
+    "URL": "https://docs.pytest.org/en/latest/",
+    "Version": "8.4.2"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "pytest-asyncio",
+    "URL": "https://github.com/pytest-dev/pytest-asyncio",
+    "Version": "1.2.0"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "regex",
+    "URL": "https://github.com/mrabarnett/mrab-regex",
+    "Version": "2026.9.10"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "requests",
+    "URL": "https://github.com/psf/requests",
+    "Version": "2.34.2"
+  },
+  {
+    "License": "MIT License",
+    "Name": "ruff",
+    "URL": "https://docs.astral.sh/ruff",
+    "Version": "0.13.2"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "safetensors",
+    "URL": "https://github.com/huggingface/safetensors",
+    "Version": "0.6.2"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "sentencepiece",
+    "URL": "https://github.com/google/sentencepiece",
+    "Version": "0.2.1"
+  },
+  {
+    "License": "BSD License",
+    "Name": "sympy",
+    "URL": "https://sympy.org",
+    "Version": "1.14.0"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "tokenizers",
+    "URL": "https://github.com/huggingface/tokenizers",
+    "Version": "0.22.2"
+  },
+  {
+    "License": "BSD License",
+    "Name": "torch",
+    "URL": "https://pytorch.org/",
+    "Version": "2.8.0+cpu"
+  },
+  {
+    "License": "MPL-2.0 AND MIT",
+    "Name": "tqdm",
+    "URL": "https://tqdm.github.io",
+    "Version": "4.70.1"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "transformers",
+    "URL": "https://github.com/huggingface/transformers",
+    "Version": "4.56.2"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "typing_extensions",
+    "URL": "https://github.com/python/typing_extensions",
+    "Version": "4.16.0"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "urllib3",
+    "URL": "https://github.com/urllib3/urllib3/blob/main/CHANGES.rst",
+    "Version": "2.8.0"
+  }
+]

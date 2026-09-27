@@ -1,0 +1,13 @@
+{"id":"wal","text":"A write ahead log records changes before database pages are updated. Its purpose is crash recovery.","license":"CC0-1.0"}
+{"id":"backpressure","text":"Backpressure slows producers when consumers cannot keep up. A bounded queue limits the number of waiting items.","license":"CC0-1.0"}
+{"id":"idempotency","text":"An idempotent operation has the same effect when applied once or multiple times. An idempotency key identifies a repeated request.","license":"CC0-1.0"}
+{"id":"dag","text":"DAG stands for directed acyclic graph. A DAG has no directed cycles. Dependencies determine the order of task execution.","license":"CC0-1.0"}
+{"id":"tcp","text":"TCP provides an ordered reliable byte stream. TCP uses acknowledgments and retransmissions to recover lost data.","license":"CC0-1.0"}
+{"id":"cache","text":"A cache stores reusable results. A cache hit avoids recomputing a result. Cache invalidation prevents reuse of stale results.","license":"CC0-1.0"}
+{"id":"semaphore","text":"A semaphore limits the number of concurrent operations. A semaphore with two permits allows at most two operations at once.","license":"CC0-1.0"}
+{"id":"virtual-memory","text":"Virtual memory maps virtual addresses to physical addresses. A page fault occurs when a required page is not currently available in physical memory.","license":"CC0-1.0"}
+{"id":"batch","text":"Batching groups multiple requests into one operation. Batching can improve throughput but waiting to fill a batch adds latency.","license":"CC0-1.0"}
+{"id":"retry","text":"A retry repeats a failed operation. Exponential backoff increases the waiting time between retries. Non-idempotent retries can duplicate side effects.","license":"CC0-1.0"}
+{"id":"quantization","text":"Quantization represents model weights with fewer bits. Quantization can reduce memory use but can change numerical accuracy.","license":"CC0-1.0"}
+{"id":"tail","text":"The p99 latency is the 99th percentile of request latency. Estimating tail latency requires many samples and a representative workload.","license":"CC0-1.0"}
+{"id":"wal-copy","text":"A write ahead log records changes before database pages are updated. Its purpose is crash recovery.","license":"CC0-1.0"}

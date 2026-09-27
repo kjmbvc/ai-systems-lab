@@ -1,0 +1,12 @@
+{"id":"q01","question":"What is the purpose of a write ahead log?","expected":"crash recovery","document_id":"wal"}
+{"id":"q02","question":"What slows producers when consumers cannot keep up?","expected":"Backpressure","document_id":"backpressure"}
+{"id":"q03","question":"What identifies a repeated request?","expected":"An idempotency key","document_id":"idempotency"}
+{"id":"q04","question":"What does DAG stand for?","expected":"directed acyclic graph","document_id":"dag"}
+{"id":"q05","question":"What does TCP provide?","expected":"an ordered reliable byte stream","document_id":"tcp"}
+{"id":"q06","question":"What prevents reuse of stale results?","expected":"Cache invalidation","document_id":"cache"}
+{"id":"q07","question":"What limits the number of concurrent operations?","expected":"A semaphore","document_id":"semaphore"}
+{"id":"q08","question":"What maps virtual addresses to physical addresses?","expected":"Virtual memory","document_id":"virtual-memory"}
+{"id":"q09","question":"What groups multiple requests into one operation?","expected":"Batching","document_id":"batch"}
+{"id":"q10","question":"What increases the waiting time between retries?","expected":"Exponential backoff","document_id":"retry"}
+{"id":"q11","question":"What represents model weights with fewer bits?","expected":"Quantization","document_id":"quantization"}
+{"id":"q12","question":"What percentile is p99 latency?","expected":"99th","document_id":"tail"}

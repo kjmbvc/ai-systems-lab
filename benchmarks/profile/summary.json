@@ -1,0 +1,58 @@
+{
+  "seed": 17,
+  "workload_id": "bf4a49b75c5db164bd56ac60475640385ebd878531688ba398331ca95ca22221",
+  "source_id": "b15827a2ab85353c9379a9719eec2c25e624a4ac74c51fb59deeb65aaa49bc7b",
+  "git_sha": "HEAD",
+  "versions": {
+    "torch": "2.8.0+cpu",
+    "transformers": "4.56.2",
+    "tokenizers": "0.22.2",
+    "safetensors": "0.6.2",
+    "psutil": "7.1.0"
+  },
+  "python": "3.12.10",
+  "os": "Windows-11-10.0.26200-SP0",
+  "cpu": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+  "logical_cpus": 12,
+  "physical_cpus": 10,
+  "host_memory_bytes": 16764178432,
+  "sqlite": "3.49.1",
+  "model": "google/flan-t5-small@0fc9ddf78a1e988dac52e2dac162b0ede4fd74ab:fp32:greedy32:prompt-v1",
+  "model_ready": {
+    "ready": true,
+    "load_ms": 1534.8011999958544,
+    "parameters": 76961152
+  },
+  "startup_ms": 32326.116500000353,
+  "torch_threads": 2,
+  "torch_interop_threads": 1,
+  "protocol": "serial closed-loop; one warmup; empty per-arm response cache",
+  "command": "python scripts/benchmark.py --repeats 1 --seed 17 --arms baseline --output benchmarks/profile",
+  "gpu_nccl_rdma_multinode": "not measured",
+  "summaries": [
+    {
+      "arm": "baseline",
+      "n": 12,
+      "mean_ms": 697.894033333796,
+      "p50_ms": 661.404800004675,
+      "p95_ms": 1072.3824000015156,
+      "p99_ms": 1072.3824000015156,
+      "throughput_rps": 1.432828994641869,
+      "error_rate": 0.0,
+      "exact_match": 0.9166666666666666,
+      "retrieval_hit_at_2": 1.0,
+      "cache_hits": 0,
+      "model_calls": 12,
+      "ingestion_ms": 33.50489999866113,
+      "ingestion": {
+        "input_count": 13,
+        "unique_count": 12,
+        "corpus_id": "0363f24ac5917bd723130cea18bbcf9f95b594a0ca75d7467fb7b9378232bc9f"
+      },
+      "peak_sampled_tree_rss_bytes": 737329152,
+      "tail_warning": "n < 1000: p99 descriptive, not a reliable tail estimate",
+      "node_peak_active": 1,
+      "node_peak_claimed_mb": 1536
+    }
+  ]
+}
