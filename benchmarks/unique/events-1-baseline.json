@@ -1,0 +1,1042 @@
+[
+  {
+    "run": "51873ddca0484deca79f1c32da8cb5a7",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "51873ddca0484deca79f1c32da8cb5a7",
+    "node": "collect",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "51873ddca0484deca79f1c32da8cb5a7",
+    "node": "collect",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 1.1912000045413151,
+    "error": null
+  },
+  {
+    "run": "51873ddca0484deca79f1c32da8cb5a7",
+    "node": "validate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "51873ddca0484deca79f1c32da8cb5a7",
+    "node": "validate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.2902000051108189,
+    "error": null
+  },
+  {
+    "run": "51873ddca0484deca79f1c32da8cb5a7",
+    "node": "deduplicate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "51873ddca0484deca79f1c32da8cb5a7",
+    "node": "deduplicate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.13869999384041876,
+    "error": null
+  },
+  {
+    "run": "51873ddca0484deca79f1c32da8cb5a7",
+    "node": "index",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "51873ddca0484deca79f1c32da8cb5a7",
+    "node": "index",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.5832000024383888,
+    "error": null
+  },
+  {
+    "run": "51873ddca0484deca79f1c32da8cb5a7",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "0813c8c6120449338d752f86df501bfb",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "0813c8c6120449338d752f86df501bfb",
+    "node": "retrieve",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "0813c8c6120449338d752f86df501bfb",
+    "node": "retrieve",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.411000000895001,
+    "error": null
+  },
+  {
+    "run": "0813c8c6120449338d752f86df501bfb",
+    "node": "route",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "0813c8c6120449338d752f86df501bfb",
+    "node": "route",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.02160000440198928,
+    "error": null
+  },
+  {
+    "run": "0813c8c6120449338d752f86df501bfb",
+    "node": "generate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "0813c8c6120449338d752f86df501bfb",
+    "node": "generate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 245.61709999397863,
+    "error": null
+  },
+  {
+    "run": "0813c8c6120449338d752f86df501bfb",
+    "node": "evaluate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "0813c8c6120449338d752f86df501bfb",
+    "node": "evaluate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.1081000009435229,
+    "error": null
+  },
+  {
+    "run": "0813c8c6120449338d752f86df501bfb",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "1f236f723acc46828db0477ff1b829e0",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "1f236f723acc46828db0477ff1b829e0",
+    "node": "retrieve",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "1f236f723acc46828db0477ff1b829e0",
+    "node": "retrieve",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.13529999705497175,
+    "error": null
+  },
+  {
+    "run": "1f236f723acc46828db0477ff1b829e0",
+    "node": "route",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "1f236f723acc46828db0477ff1b829e0",
+    "node": "route",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.014999997802078724,
+    "error": null
+  },
+  {
+    "run": "1f236f723acc46828db0477ff1b829e0",
+    "node": "generate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "1f236f723acc46828db0477ff1b829e0",
+    "node": "generate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 314.5252000031178,
+    "error": null
+  },
+  {
+    "run": "1f236f723acc46828db0477ff1b829e0",
+    "node": "evaluate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "1f236f723acc46828db0477ff1b829e0",
+    "node": "evaluate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.13929999840911478,
+    "error": null
+  },
+  {
+    "run": "1f236f723acc46828db0477ff1b829e0",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "47e97abb5ded49c29e2ac9cac60adf2b",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "47e97abb5ded49c29e2ac9cac60adf2b",
+    "node": "retrieve",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "47e97abb5ded49c29e2ac9cac60adf2b",
+    "node": "retrieve",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.4453000001376495,
+    "error": null
+  },
+  {
+    "run": "47e97abb5ded49c29e2ac9cac60adf2b",
+    "node": "route",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "47e97abb5ded49c29e2ac9cac60adf2b",
+    "node": "route",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.045900000259280205,
+    "error": null
+  },
+  {
+    "run": "47e97abb5ded49c29e2ac9cac60adf2b",
+    "node": "generate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "47e97abb5ded49c29e2ac9cac60adf2b",
+    "node": "generate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 376.11420000030193,
+    "error": null
+  },
+  {
+    "run": "47e97abb5ded49c29e2ac9cac60adf2b",
+    "node": "evaluate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "47e97abb5ded49c29e2ac9cac60adf2b",
+    "node": "evaluate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.03909999941242859,
+    "error": null
+  },
+  {
+    "run": "47e97abb5ded49c29e2ac9cac60adf2b",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "8febde2bdab2485a888ee8fedaba644f",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "8febde2bdab2485a888ee8fedaba644f",
+    "node": "retrieve",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "8febde2bdab2485a888ee8fedaba644f",
+    "node": "retrieve",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.15220000204863027,
+    "error": null
+  },
+  {
+    "run": "8febde2bdab2485a888ee8fedaba644f",
+    "node": "route",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "8febde2bdab2485a888ee8fedaba644f",
+    "node": "route",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.019099999917671084,
+    "error": null
+  },
+  {
+    "run": "8febde2bdab2485a888ee8fedaba644f",
+    "node": "generate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "8febde2bdab2485a888ee8fedaba644f",
+    "node": "generate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 554.0583999973023,
+    "error": null
+  },
+  {
+    "run": "8febde2bdab2485a888ee8fedaba644f",
+    "node": "evaluate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "8febde2bdab2485a888ee8fedaba644f",
+    "node": "evaluate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.03789999755099416,
+    "error": null
+  },
+  {
+    "run": "8febde2bdab2485a888ee8fedaba644f",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "871d8cfad7814605a0057c39e62e4f26",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "871d8cfad7814605a0057c39e62e4f26",
+    "node": "retrieve",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "871d8cfad7814605a0057c39e62e4f26",
+    "node": "retrieve",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.16529999993508682,
+    "error": null
+  },
+  {
+    "run": "871d8cfad7814605a0057c39e62e4f26",
+    "node": "route",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "871d8cfad7814605a0057c39e62e4f26",
+    "node": "route",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.015100005839485675,
+    "error": null
+  },
+  {
+    "run": "871d8cfad7814605a0057c39e62e4f26",
+    "node": "generate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "871d8cfad7814605a0057c39e62e4f26",
+    "node": "generate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 196.59839999803808,
+    "error": null
+  },
+  {
+    "run": "871d8cfad7814605a0057c39e62e4f26",
+    "node": "evaluate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "871d8cfad7814605a0057c39e62e4f26",
+    "node": "evaluate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.03560000186553225,
+    "error": null
+  },
+  {
+    "run": "871d8cfad7814605a0057c39e62e4f26",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "27d566679bce4c6c81d5b4864d4bd49f",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "27d566679bce4c6c81d5b4864d4bd49f",
+    "node": "retrieve",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "27d566679bce4c6c81d5b4864d4bd49f",
+    "node": "retrieve",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.14090000331634656,
+    "error": null
+  },
+  {
+    "run": "27d566679bce4c6c81d5b4864d4bd49f",
+    "node": "route",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "27d566679bce4c6c81d5b4864d4bd49f",
+    "node": "route",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.014099998224992305,
+    "error": null
+  },
+  {
+    "run": "27d566679bce4c6c81d5b4864d4bd49f",
+    "node": "generate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "27d566679bce4c6c81d5b4864d4bd49f",
+    "node": "generate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 200.06410000496544,
+    "error": null
+  },
+  {
+    "run": "27d566679bce4c6c81d5b4864d4bd49f",
+    "node": "evaluate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "27d566679bce4c6c81d5b4864d4bd49f",
+    "node": "evaluate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.03590000414988026,
+    "error": null
+  },
+  {
+    "run": "27d566679bce4c6c81d5b4864d4bd49f",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "5f88baea3b8d4be3bc97eaa84b05c315",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "5f88baea3b8d4be3bc97eaa84b05c315",
+    "node": "retrieve",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "5f88baea3b8d4be3bc97eaa84b05c315",
+    "node": "retrieve",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.17439999646740034,
+    "error": null
+  },
+  {
+    "run": "5f88baea3b8d4be3bc97eaa84b05c315",
+    "node": "route",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "5f88baea3b8d4be3bc97eaa84b05c315",
+    "node": "route",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.014400000509340316,
+    "error": null
+  },
+  {
+    "run": "5f88baea3b8d4be3bc97eaa84b05c315",
+    "node": "generate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "5f88baea3b8d4be3bc97eaa84b05c315",
+    "node": "generate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 173.31349999585655,
+    "error": null
+  },
+  {
+    "run": "5f88baea3b8d4be3bc97eaa84b05c315",
+    "node": "evaluate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "5f88baea3b8d4be3bc97eaa84b05c315",
+    "node": "evaluate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.048099995183292776,
+    "error": null
+  },
+  {
+    "run": "5f88baea3b8d4be3bc97eaa84b05c315",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "86fc6ed85265440fa9b02d0d8cb63f32",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "86fc6ed85265440fa9b02d0d8cb63f32",
+    "node": "retrieve",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "86fc6ed85265440fa9b02d0d8cb63f32",
+    "node": "retrieve",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.2426999999443069,
+    "error": null
+  },
+  {
+    "run": "86fc6ed85265440fa9b02d0d8cb63f32",
+    "node": "route",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "86fc6ed85265440fa9b02d0d8cb63f32",
+    "node": "route",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.023799999326001853,
+    "error": null
+  },
+  {
+    "run": "86fc6ed85265440fa9b02d0d8cb63f32",
+    "node": "generate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "86fc6ed85265440fa9b02d0d8cb63f32",
+    "node": "generate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 397.84620000136783,
+    "error": null
+  },
+  {
+    "run": "86fc6ed85265440fa9b02d0d8cb63f32",
+    "node": "evaluate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "86fc6ed85265440fa9b02d0d8cb63f32",
+    "node": "evaluate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.036499994166661054,
+    "error": null
+  },
+  {
+    "run": "86fc6ed85265440fa9b02d0d8cb63f32",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "bc5d7461697447c88776f10902d04f1a",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "bc5d7461697447c88776f10902d04f1a",
+    "node": "retrieve",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "bc5d7461697447c88776f10902d04f1a",
+    "node": "retrieve",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.13980000221636146,
+    "error": null
+  },
+  {
+    "run": "bc5d7461697447c88776f10902d04f1a",
+    "node": "route",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "bc5d7461697447c88776f10902d04f1a",
+    "node": "route",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.013899996702093631,
+    "error": null
+  },
+  {
+    "run": "bc5d7461697447c88776f10902d04f1a",
+    "node": "generate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "bc5d7461697447c88776f10902d04f1a",
+    "node": "generate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 264.2154999994091,
+    "error": null
+  },
+  {
+    "run": "bc5d7461697447c88776f10902d04f1a",
+    "node": "evaluate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "bc5d7461697447c88776f10902d04f1a",
+    "node": "evaluate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.036600002204068005,
+    "error": null
+  },
+  {
+    "run": "bc5d7461697447c88776f10902d04f1a",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "c6724e2939f645d79f8f180d56a01622",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "c6724e2939f645d79f8f180d56a01622",
+    "node": "retrieve",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "c6724e2939f645d79f8f180d56a01622",
+    "node": "retrieve",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.1379000023007393,
+    "error": null
+  },
+  {
+    "run": "c6724e2939f645d79f8f180d56a01622",
+    "node": "route",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "c6724e2939f645d79f8f180d56a01622",
+    "node": "route",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.014099998224992305,
+    "error": null
+  },
+  {
+    "run": "c6724e2939f645d79f8f180d56a01622",
+    "node": "generate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "c6724e2939f645d79f8f180d56a01622",
+    "node": "generate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 380.03269999899203,
+    "error": null
+  },
+  {
+    "run": "c6724e2939f645d79f8f180d56a01622",
+    "node": "evaluate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "c6724e2939f645d79f8f180d56a01622",
+    "node": "evaluate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.11490000179037452,
+    "error": null
+  },
+  {
+    "run": "c6724e2939f645d79f8f180d56a01622",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "60b8b8cdc6004164a05afc4e1122d3d8",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "60b8b8cdc6004164a05afc4e1122d3d8",
+    "node": "retrieve",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "60b8b8cdc6004164a05afc4e1122d3d8",
+    "node": "retrieve",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.4227999961585738,
+    "error": null
+  },
+  {
+    "run": "60b8b8cdc6004164a05afc4e1122d3d8",
+    "node": "route",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "60b8b8cdc6004164a05afc4e1122d3d8",
+    "node": "route",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.05789999704575166,
+    "error": null
+  },
+  {
+    "run": "60b8b8cdc6004164a05afc4e1122d3d8",
+    "node": "generate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "60b8b8cdc6004164a05afc4e1122d3d8",
+    "node": "generate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 439.79699999908917,
+    "error": null
+  },
+  {
+    "run": "60b8b8cdc6004164a05afc4e1122d3d8",
+    "node": "evaluate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "60b8b8cdc6004164a05afc4e1122d3d8",
+    "node": "evaluate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.043499996536411345,
+    "error": null
+  },
+  {
+    "run": "60b8b8cdc6004164a05afc4e1122d3d8",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "6a0dc31dcbf64fb58cf03097dff41a50",
+    "node": "__graph__",
+    "status": "started",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "6a0dc31dcbf64fb58cf03097dff41a50",
+    "node": "retrieve",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "6a0dc31dcbf64fb58cf03097dff41a50",
+    "node": "retrieve",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.16959999629762024,
+    "error": null
+  },
+  {
+    "run": "6a0dc31dcbf64fb58cf03097dff41a50",
+    "node": "route",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "6a0dc31dcbf64fb58cf03097dff41a50",
+    "node": "route",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.015199999324977398,
+    "error": null
+  },
+  {
+    "run": "6a0dc31dcbf64fb58cf03097dff41a50",
+    "node": "generate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "6a0dc31dcbf64fb58cf03097dff41a50",
+    "node": "generate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 199.29470000352012,
+    "error": null
+  },
+  {
+    "run": "6a0dc31dcbf64fb58cf03097dff41a50",
+    "node": "evaluate",
+    "status": "started",
+    "attempt": 1,
+    "elapsed_ms": 0.0,
+    "error": null
+  },
+  {
+    "run": "6a0dc31dcbf64fb58cf03097dff41a50",
+    "node": "evaluate",
+    "status": "succeeded",
+    "attempt": 1,
+    "elapsed_ms": 0.041200000850949436,
+    "error": null
+  },
+  {
+    "run": "6a0dc31dcbf64fb58cf03097dff41a50",
+    "node": "__graph__",
+    "status": "succeeded",
+    "attempt": 0,
+    "elapsed_ms": 0.0,
+    "error": null
+  }
+]
